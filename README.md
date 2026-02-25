@@ -262,3 +262,6 @@ Helps detect non-official communication.
   templates/receipt formats.
 - Title matching may require fuzzy matching (case, punctuation, line
   breaks) for improved robustness.
+
+
+### || Documentation repo is read-only; contributions not accepted ||
